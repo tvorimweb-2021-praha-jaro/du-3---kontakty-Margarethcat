@@ -1,0 +1,48 @@
+.contacts {
+    margin: 20px;
+}
+
+.title {
+
+}
+
+.container {
+    display: flex;
+    background-color: #ebebeb;
+    border-radius: 10px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 22%;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.profile-picture {
+    width: 150px;
+    border-radius: 100%;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.social > a {
+    text-decoration: none;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+}
